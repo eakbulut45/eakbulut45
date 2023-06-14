@@ -1,3 +1,11 @@
+
+![github-contribution-grid-snake](https://github.com/eakbulut45/eakbulut45/assets/113622864/2f7ceb5d-28f4-4903-9e39-b52f7ad011ea)
+
+
+
+
+
+
 - 👋 Hi, I’m Enes Akbulut
 - 👀 I’m interested in  Java programming.
 - 🌱 I’m currently learning coding in Java, JavaScript, MySQL, HTML, Object Oriented Programming and the necessary programs.
