@@ -2,9 +2,6 @@
 ![github-contribution-grid-snake](https://github.com/eakbulut45/eakbulut45/assets/113622864/2f7ceb5d-28f4-4903-9e39-b52f7ad011ea)
 
 
-Tools I Use: 
-https://www.jetbrains.com/idea/features/
-
 
 
 
